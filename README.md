@@ -40,4 +40,4 @@ Open an issue or contact me at [@justfizzbuzz](https://twitter.com/justfizzbuzz)
 
 ## Credits
 
-This repo heavily adopts https://github.com/railwayapp-templates/ghost and https://github.com/alphasecio/ghost-on-railway's implementation.
+This repo heavily adopts https://github.com/railwayapp-templates/ghost and https://github.com/alphasecio/ghost-on-railway 's implementation.

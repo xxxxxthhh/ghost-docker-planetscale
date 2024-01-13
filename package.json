@@ -1,0 +1,16 @@
+{
+  "name": "ghost",
+  "version": "1.0.0",
+  "description": "Deploy Ghost Docker and Planetscale",
+  "author": "justrox",
+  "license": "MIT",
+  "dependencies": {
+    "casper": "github:TryGhost/Casper#main",
+    "ghost-storage-cloudinary": "latest",
+    "lyra": "github:TryGhost/lyra#main",
+    "headline": "github:TryGhost/headline#main",
+    "ruby": "github:TryGhost/ruby#main",
+    "ease": "github:TryGhost/ease#main",
+    "wave": "github:TryGhost/wave#main"
+  }
+}

@@ -1,6 +1,6 @@
 #!/bin/bash
 # Map the port environment provided by Railway / other providers
-export server__port=$PORT
+export server__port=2368
 
 # Good cloudinary config defaults. You can override these with your own values.
 export storage__active=cloudinary

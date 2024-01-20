@@ -1,0 +1,10 @@
+app = "ghost-of-cdc"
+
+[processes]
+  [processes.main]
+    command = "node ghost-of-cdc"
+    args = ["--port", "8080"]
+
+[[services]]
+  name = "my-service"
+  processes = ["main"]

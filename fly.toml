@@ -4,7 +4,7 @@ kill_signal = "SIGINT"
 kill_timeout = 5
 
 [env]
-URL = "https://atypicallife.club"
+URL = "atypicallife.club"
 
 [experimental]
 auto_rollback = true

@@ -4,7 +4,7 @@ kill_signal = "SIGINT"
 kill_timeout = 5
 
 [env]
-URL = "atypicallife.club"
+URL = "https://ghost-of-cdc.fly.dev"
 
 [experimental]
 auto_rollback = true

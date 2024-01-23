@@ -1,5 +1,6 @@
 #/bin/sh
 
+cp -Rf "./node_modules/journal" ./content/themes/journal;
 cp -Rf "./node_modules/dawn" ./content/themes/dawn;
 cp -Rf "./node_modules/casper" ./content/themes/capser;
 cp -Rf "./node_modules/lyra" ./content/themes/lyra;

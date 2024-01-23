@@ -12,6 +12,7 @@
     "ruby": "github:TryGhost/ruby#main",
     "ease": "github:TryGhost/ease#main",
     "wave": "github:TryGhost/wave#main",
+    "journal": "github:TryGhost/journal#main",
     "dawn": "github:TryGhost/dawn#main"
   }
 }
